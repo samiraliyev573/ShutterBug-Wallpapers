@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098669948877",
+    "firebase_url": "https://pinholewallpapers.firebaseio.com",
+    "project_id": "pinholewallpapers",
+    "storage_bucket": "pinholewallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098669948877:android:eb5c89c758870b65250e84",
+        "android_client_info": {
+          "package_name": "pinhole.wallpaper.wallpaperApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098669948877-28qo5rd57bg0q6afr049kdljp5jh8aer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-3PHCn8W60PZm_ah97CKebCjBFYxRIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098669948877-28qo5rd57bg0q6afr049kdljp5jh8aer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
