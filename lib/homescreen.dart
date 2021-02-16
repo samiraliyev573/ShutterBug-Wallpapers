@@ -14,7 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Stream slides;
 
   String activeTag = 'favourite';
-
+  // changes needed here
   //keep track of the current page to avoid unnecessary renders
   int currentpage = 0;
   @override
