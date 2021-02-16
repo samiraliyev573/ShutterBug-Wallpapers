@@ -16,6 +16,8 @@ class _HomeScreenState extends State<HomeScreen> {
   String activeTag = 'favourite';
   // changes needed here
   //keep track of the current page to avoid unnecessary renders
+
+  //hgjfhjkg
   int currentpage = 0;
   @override
   void initState() {
